@@ -22,11 +22,26 @@
 
 ![Screenshot (2345)](https://user-images.githubusercontent.com/91931504/180633234-180cc6a9-2784-4625-a94a-7ad82e89bdcc.png)
 
--open the salesforce mail
+-open the salesforce mail to verify account
 
 ![Screenshot (2346)](https://user-images.githubusercontent.com/91931504/180633243-e7e5931a-4cf7-4f81-b1ab-8922af0d0dc1.png)
 
--The email content login credentials
+-The email contain login credentials
 
 ![Screenshot (2347)](https://user-images.githubusercontent.com/91931504/180633282-634f80f7-62c8-4ae7-94ab-96e4fef6a36b.png)
+
+-click verify account U will get change your password page
+
+![Screenshot (2348)](https://user-images.githubusercontent.com/91931504/180715212-6f8231e7-cf4a-4423-a629-1b6e73c06db6.png)
+
+-Set the password for your username click change password
+
+![Screenshot (2349)](https://user-images.githubusercontent.com/91931504/180715356-02c259b6-b595-488d-a2c3-2c078ea3eb59.png)
+
+-this will open Homepage of lightning user
+
+![Screenshot (2350)](https://user-images.githubusercontent.com/91931504/180715842-32f3c2b9-a4b6-4c8c-9aed-8a14084327d6.png)
+
+
+
 
