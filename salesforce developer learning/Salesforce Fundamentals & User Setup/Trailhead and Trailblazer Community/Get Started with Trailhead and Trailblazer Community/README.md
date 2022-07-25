@@ -58,7 +58,7 @@
 
 ![Screenshot (2356)](https://user-images.githubusercontent.com/91931504/180717277-8a03d782-6752-437d-af0c-4fea70d18d70.png)
 
-Create a trailhead id
+Create a trailhead id and click next
 
 ![Screenshot (2359)](https://user-images.githubusercontent.com/91931504/180717569-83e7ab01-e5c4-49a8-9355-b738c06d330a.png)
 
@@ -66,7 +66,46 @@ Create a trailhead id
 
 ![Screenshot (2361)](https://user-images.githubusercontent.com/91931504/180717786-57335881-837f-49b8-8474-236c1bdd594a.png)
 
--
+-You will get Let's learn something new today 
+
+![Screenshot (2362)](https://user-images.githubusercontent.com/91931504/180720884-1c7583b9-67ff-4105-9a6a-18a0222b2ca0.png)
+
+-Read Why trailhead and trailblazer community
+
+![Screenshot (2363)](https://user-images.githubusercontent.com/91931504/180721133-1dd01258-19f9-4f4d-934e-ade4c3d29765.png)
+
+-Read the following and click next 
+
+![Screenshot (2366)](https://user-images.githubusercontent.com/91931504/180721324-94e3ebb6-bc3a-4a3c-8605-f9d27bd2d953.png)
+
+![Screenshot (2367)](https://user-images.githubusercontent.com/91931504/180721381-9d855bb9-450a-4965-b409-64108df618b8.png)
+
+![Screenshot (2368)](https://user-images.githubusercontent.com/91931504/180721435-161b63c0-ae6b-4d3b-bc66-6c6b3bc5c55c.png)
+
+![Screenshot (2369)](https://user-images.githubusercontent.com/91931504/180721495-b0e6e1e5-d11d-4374-8fa1-2f3a193f6c80.png)
+
+![Screenshot (2370)](https://user-images.githubusercontent.com/91931504/180721580-a5f44157-ba3c-4f90-8bd1-96c35af2ded3.png)
+
+![Screenshot (2371)](https://user-images.githubusercontent.com/91931504/180721649-9fbcc9b6-f676-46ea-9aae-8d90852c8230.png)
+
+-Now click on Trailhead and Trialblazer Community Basics learn
+
+![Screenshot (2372)](https://user-images.githubusercontent.com/91931504/180721987-1af2a43f-e31c-4c37-b778-8a71ed75b748.png)
+
+![Screenshot (2373)](https://user-images.githubusercontent.com/91931504/180722024-04aca085-2283-4f9b-9d3a-2d3db0f74ca9.png)
+
+-Click on Get Started with Trailhead and trailblazer Community
+
+![Screenshot (2376)](https://user-images.githubusercontent.com/91931504/180722351-202cad0d-39d5-4565-8233-0ebdd5a758bd.png)
+
+-Quiz
+
+![Screenshot (2377)](https://user-images.githubusercontent.com/91931504/180722508-f686d7f8-3829-406f-8987-fbf64d8412a7.png)
+
+![Screenshot (2379)](https://user-images.githubusercontent.com/91931504/180722565-dc9741a2-161e-4d15-b21f-c448bf0c68df.png)
+
+
+
 
 
 
